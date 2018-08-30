@@ -18,23 +18,22 @@
 - [axios](https://github.com/axios/axios):  一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js 中
 
 ## 提示
-The movie and book api comes from [Douban](https://developers.douban.com/wiki/?title=guide), it has restiction.
-Every single ip can access api without apikey 150 times per hours and api with apikey 500 timers per hours. If you can't see any movie or book content, that means you need to wait for Douban api recovery.
+电影和书的数据接口是来自豆瓣.每个没有api授权的ip每小时可以访问150次，有授权的ip每小时可以访问500次。如果你不能看到任何的电影和书，这就意味着你需要等待豆瓣数据接口的恢复
 
-## Development
+## 开发步骤
 ``` bash
-# clone project from github to your computer
+# 从GitHub克隆项目到你的本地
 git clone https://github.com/alex1504/vue2.0-demo.git
 
-# enter into project directory
+# 进入到项目目录下
 cd vue2.0-demo
 
-# install dependencies
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 服务会在localhost:8080上加载
 npm run dev
 
-# build for production
+# 打包项目
 npm run build
 ```
