@@ -3,21 +3,21 @@
 
 ![preview](http://huzerui.com/vue2.0-demo/statics/img/readme/desc-1.gif)
 
-## Preview
+## 预览
 [http://vue2demo.huzerui.com](http://vue2demo.huzerui.com)
 
-You'd better open it in mobile mode of browser or just view in your mobilephone by scanning the qrcode below.
+你最好在手机浏览器模式下打开或是手机扫描下面的二维码就可以预览项目
 
 ![qrcode](http://huzerui.com/vue2.0-demo/statics/img/readme/qrcode.png)
 
-## Base
-- [vue](https://vuejs.org/): A MVVM framework.
-- [vue-router](https://router.vuejs.org/): Official router plugin
-- [vuex](https://vuex.vuejs.org/): State management.
+## 基础
+- [vue](https://vuejs.org/):  MVVM 前端框架.
+- [vue-router](https://router.vuejs.org/): 官方路由组件
+- [vuex](https://vuex.vuejs.org/): 状态管理器.
 - [vue-material](https://vue-material-old.netlify.com/#/):  A material css ui framework
-- [axios](https://github.com/axios/axios):  A http request plugin
+- [axios](https://github.com/axios/axios):  一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js 中
 
-## Notice
+## 提示
 The movie and book api comes from [Douban](https://developers.douban.com/wiki/?title=guide), it has restiction.
 Every single ip can access api without apikey 150 times per hours and api with apikey 500 timers per hours. If you can't see any movie or book content, that means you need to wait for Douban api recovery.
 
