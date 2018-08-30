@@ -1,5 +1,5 @@
 ## Vue2.0 demo
-> This is a simple vuejs demo built by vue-cli [webpack-simple](https://github.com/vuejs-templates/webpack-simple) template.
+> 这是由vue-cli构建的一个简单的vue.js 样本 [webpack-simple](https://github.com/vuejs-templates/webpack-simple) template.
 
 ![preview](http://huzerui.com/vue2.0-demo/statics/img/readme/desc-1.gif)
 
