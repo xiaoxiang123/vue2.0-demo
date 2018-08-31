@@ -1,5 +1,5 @@
 ## Vue2.0 demo
-> 这是由vue-cli构建的一个简单的vue.js 样本 [webpack-simple](https://github.com/vuejs-templates/webpack-simple) template.
+> 这是由vue-cli构建，并使用更简洁的webapck配置模板发布的一个简单的vue.js 样本
 
 ![preview](http://huzerui.com/vue2.0-demo/statics/img/readme/desc-1.gif)
 
