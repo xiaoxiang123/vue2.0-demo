@@ -1,5 +1,5 @@
 ## Vue2.0 demo
-> 这是由vue-cli构建，并使用更简洁的webapck配置模板发布的一个简单的vue.js 样本
+> 这是由vue-cli构建，并使用更简洁的webapck配置模板发布的一个简单的vue项目
 
 ![preview](http://huzerui.com/vue2.0-demo/statics/img/readme/desc-1.gif)
 
@@ -11,9 +11,9 @@
 ![qrcode](http://huzerui.com/vue2.0-demo/statics/img/readme/qrcode.png)
 
 ## 基础
-- [vue](https://vuejs.org/):  MVVM 前端框架.
+- [vue](https://vuejs.org/):  MVVM 前端框架
 - [vue-router](https://router.vuejs.org/): 官方路由组件
-- [vuex](https://vuex.vuejs.org/): 状态管理器.
+- [vuex](https://vuex.vuejs.org/): 状态管理器
 - [vue-material](https://vue-material-old.netlify.com/#/):  轻量级的ui框架
 - [axios](https://github.com/axios/axios):  一个基于 promise 的 HTTP 库
 
