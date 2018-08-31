@@ -14,8 +14,8 @@
 - [vue](https://vuejs.org/):  MVVM 前端框架.
 - [vue-router](https://router.vuejs.org/): 官方路由组件
 - [vuex](https://vuex.vuejs.org/): 状态管理器.
-- [vue-material](https://vue-material-old.netlify.com/#/):  A material css ui framework
-- [axios](https://github.com/axios/axios):  一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js 中
+- [vue-material](https://vue-material-old.netlify.com/#/):  轻量级的ui框架
+- [axios](https://github.com/axios/axios):  一个基于 promise 的 HTTP 库
 
 ## 提示
 电影和书的数据接口是来自豆瓣.每个没有api授权的ip每小时可以访问150次，有授权的ip每小时可以访问500次。如果你不能看到任何的电影和书，这就意味着你需要等待豆瓣数据接口的恢复
