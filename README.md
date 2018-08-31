@@ -1,5 +1,5 @@
 ## Vue2.0 demo
-> 这是由vue-cli构建，并使用更简洁的webapck配置模板发布的一个简单的vue项目
+> 基于vue-cli，并使用webapck-simple配置模板发布的一个简单的vue项目
 
 ![preview](http://huzerui.com/vue2.0-demo/statics/img/readme/desc-1.gif)
 
